@@ -5,7 +5,7 @@
 
 ୨୧ . . I'm pursuing a degree in Computer Engineering at the American University of Paraguay, while independently learning web development and game development through practical, project-based work.
 
-<img src="https://i.imgur.com/NgthF9Y.jpeg" alt="drawing" width="600"/>
+<img src="https://i.imgur.com/NgthF9Y.jpeg" alt="drawing" width="400"/>
 
 
 <h4 align="left">Languages and Tools:</h4>

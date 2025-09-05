@@ -1,6 +1,5 @@
-# 🌸 Hi there, I'm Milena! 🌸  
+# 🌸 Hi there, I'm Mei! 🌸  
 
-Welcome to my little corner on GitHub ✨  
 I love learning, building, and making things look cute while still being functional 💻💕
 
 ---
@@ -18,16 +17,12 @@ I love learning, building, and making things look cute while still being functio
 ## 🌼 About Me  
 - 🌱 Currently learning & experimenting with **web dev + Python**  
 - 🎀 Love mixing **tech + creativity**  
-- ☕ Runs on coffee and curiosity  
-
----
-
-## ✨ Fun Corner  
-> "Code a little every day and let it bloom 🌸"
+- 🪽 I'm an Otaku
 
 ---
 
 ## 📫 Find me around the web  
-- 🐙 GitHub: [YourUsername](https://github.com/YourUsername)  
-- 🌐 Portfolio/Website: *coming soon!*  
+- 🐙 GitHub: [kuragehime18](https://github.com/kuragehime18)  
+- 🌐 Neocities: https://cursetard.neocities.org/
+- 🐤 Twitter: https://x.com/kuragehime18
 

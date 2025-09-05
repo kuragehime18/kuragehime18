@@ -1,4 +1,4 @@
-# 🌸 Hi there, I'm Mei! 🌸  
+# Hi there, I'm Mei! 🌸  
 
 I love learning, building, and making things look cute while still being functional 💻💕
 

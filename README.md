@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I'm めい <href="https://files.catbox.moe/nssc2p.gif"img/></h1>
+<h1 align="center">Hi, I'm めい </h1>
 <h3 align="center">A Junior Front-End Developer ༊·˚</h3>
-
+<img align="center" alt="miffy" src="https://files.catbox.moe/i62yxg.png"/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/kuragehime" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kuragehime" height="30" width="40" /></a>

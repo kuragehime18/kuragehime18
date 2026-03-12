@@ -4,7 +4,6 @@
 <p align="center">
 <a href="https://dev.to/kuragehime" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kuragehime" height="30" width="40" /></a>
 <a href="https://twitter.com/kuragehime18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kuragehime18" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/milenarodasdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="milenarodasdev" height="30" width="40" /></a>
 <a href="https://discord.gg/mei___18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mei___18" height="30" width="40" /></a>
 </p>
 

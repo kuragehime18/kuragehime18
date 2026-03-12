@@ -1,6 +1,5 @@
 <h1 align="center">Hi, I'm めい <img src="https://files.catbox.moe/mxn2m6.gif" alt="kya"/></h1>
-<h3 align="center">A Junior Developer ༊·˚</h3>
-<p align="center"> <img align="center" alt="miffy" src="https://files.catbox.moe/i62yxg.png"/></p>
+<h3 align="center">Junior Developer 𝜗ৎ</h3>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://dev.to/kuragehime" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kuragehime" height="30" width="40" /></a>

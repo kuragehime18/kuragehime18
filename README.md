@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm <b>mei</b> <img src="https://files.catbox.moe/mxn2m6.gif" alt="kya"/></h1>
+<h1 align="center">Hi, I'm <i>mei</i> <img src="https://files.catbox.moe/mxn2m6.gif" alt="kya"/></h1>
 <h3 align="center">Junior Developer 𝜗ৎ</h3>
 <h3 align="center">Connect with me:</h3>
 <p align="center">

@@ -7,4 +7,5 @@
 <a href="https://discord.gg/kuragehime18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mei___18" height="30" width="40" /></a>
 </p>
 
-<p align="center" >You can help me by donating to my <a href="https://buymeacoffee.com/mei18"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a></p>
+<h4 align="center">You can help me by donating to my:</h4>
+<p align="center"><a href="https://buymeacoffee.com/mei18"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a></p>
